@@ -1,1 +1,1 @@
-GIT
+GIT is free software
